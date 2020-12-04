@@ -6,6 +6,8 @@
 /.idea/workspace.xml
 .DS_Store
 /build
-/WhatsappMessengerView/build
+/MessengerInputView/build
 /captures
 .externalNativeBuild
+
+.idea/dbnavigator.xml
